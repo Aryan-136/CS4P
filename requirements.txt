@@ -1,4 +1,4 @@
-git remote add origin https://github.com/Aryan-136/CS4P/app.py
+git remote add origin https://github.com/Aryan-136/CS4P/blob/main/app.py
 git push -u origin main
 numpy
 pandas
