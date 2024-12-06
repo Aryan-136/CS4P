@@ -1,3 +1,8 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Aryan-136/CS4P.git
+git push -u origin main
 numpy
 pandas
 flask
